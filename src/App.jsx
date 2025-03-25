@@ -140,10 +140,7 @@ function App() {
           available on the latest Discord desktop versions.
         </Text>
         
-        <Text>
-          To use this, write your text, select parts of it and assign colors to them, 
-          then copy it using the button below, and send in a Discord message.
-        </Text>
+        
         
         <Card withBorder p="md">
           <Title order={3} mb="md">Create your text</Title>
